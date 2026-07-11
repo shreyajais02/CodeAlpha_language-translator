@@ -98,17 +98,4 @@ if st.button("Translate"):
     else:
         st.warning("Please enter some text.")
 
- st.markdown("""
-<div style="
-    text-align:center;
-    margin-top:40px;
-    padding:15px;
-    background:#4b0f23;
-    border-radius:12px;
-    color:white;
-    font-size:14px;
-">
-    ❤️ Developed by <b>Shreya Jaiswal</b><br>
-    <small>CodeAlpha Internship Project | Language Translator</small>
-</div>
-""", unsafe_allow_html=True)       
+     
