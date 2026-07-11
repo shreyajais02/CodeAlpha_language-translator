@@ -80,10 +80,7 @@ languages = {
     "Hindi": "hi",
     "French": "fr",
     "Spanish": "es",
-    "German": "de",
-    "Punjabi": "pa",
-    "Bengali": "bn",
-    "Sanskrit": "sa"
+    "German": "de"
 }
 
 source = st.selectbox("Source Language", languages.keys())
